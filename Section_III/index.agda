@@ -184,8 +184,8 @@ Lemma-68 = succCovered
          , csucc
 
 -- Union of mewos
-Definition-68 : (A : Type ℓ) → (A → MEWO ℓ) → MEWO ℓ
-Definition-68 = ⋃
+Definition-69 : (A : Type ℓ) → (A → MEWO ℓ) → MEWO ℓ
+Definition-69 = ⋃
 
 -- Remark-70 : No formalizable content
 
