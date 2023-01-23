@@ -1,0 +1,3 @@
+name: TTOrdinal
+include: .
+depend: cubical, TypeTopology
